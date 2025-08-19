@@ -1,0 +1,6 @@
+In run 3, bomber_1_red_gps_bomb_1_2 was hit 1 time(s)
+In run 3, bomber_1_red_gps_bomb_1_4 was hit 1 time(s)
+In run 3, bomber_2_red_gps_bomb_1_2 was hit 1 time(s)
+In run 3, bomber_2_red_gps_bomb_1_4 was hit 1 time(s)
+In run 3, tank_1 was hit 1 time(s)
+In run 3, tank_2 was hit 1 time(s)

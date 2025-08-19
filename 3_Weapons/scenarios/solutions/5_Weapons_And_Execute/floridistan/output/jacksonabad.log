@@ -1,0 +1,15 @@
+2024-07-01 19:23:55 version wsf 2.9.0
+2024-07-01 19:23:55 file floridistan.txt
+2024-07-01 19:23:55 file setup.txt
+2024-07-01 19:23:55 file platforms/bomber.txt
+2024-07-01 19:23:55 file ../../../models/weapons/agm/red_gps_bomb_1.txt
+2024-07-01 19:23:55 file platforms/car.txt
+2024-07-01 19:23:55 file platforms/satellite.txt
+2024-07-01 19:23:55 file platforms/ship.txt
+2024-07-01 19:23:55 file platforms/tank.txt
+2024-07-01 19:23:55 file scenarios/blue_laydown.txt
+2024-07-01 19:23:55 file scenarios/red_laydown.txt
+2024-07-01 19:23:55 AER output file: output/jacksonabad.aer
+2024-07-01 19:23:55 Event output file: output/jacksonabad.evt
+2024-07-01 19:23:55 start 1
+2024-07-01 19:23:55 complete 3600.001 0.016 0.000

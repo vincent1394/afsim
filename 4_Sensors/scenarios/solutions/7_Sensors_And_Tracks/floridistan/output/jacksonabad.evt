@@ -1,0 +1,35 @@
+0.00000 LOCAL_TRACK_INITIATED bomber_1 tank_1 TrackId: bomber_1.1 \
+  Start_Time: 0.00000 Update_Time: 0.00000 Update_Count: 0 Quality: 0.5 Domain: unknown Type: I \
+  Target_Truth: Name: tank_1 Type: TANK Side: blue \
+  Originator: LLA: 30:05:54.78n 80:07:48.80w 9144 m \
+  Track: LLA: 30:10:09.00n 81:37:02.08w -1.7695129e-08 m Flags: L \
+  Truth: LLA: 30:10:09.00n 81:37:02.08w 0 m  Difference: 0 m  \
+  Track: Range: 143887 m Bearing: 273.5 deg Elevation: -4.28735 deg \
+  Truth: Range: 143887 m Bearing: 273.5 deg Elevation: -4.28735 deg \
+ Source_TrackId: bomber_1.1 Update_Time: 0.00000 Update_Count: 0 Quality: 0.5
+0.00000 LOCAL_TRACK_INITIATED bomber_1 tank_2 TrackId: bomber_1.2 \
+  Start_Time: 0.00000 Update_Time: 0.00000 Update_Count: 0 Quality: 0.5 Domain: unknown Type: I \
+  Target_Truth: Name: tank_2 Type: TANK Side: blue \
+  Originator: LLA: 30:05:54.78n 80:07:48.80w 9144 m \
+  Track: LLA: 30:01:57.10n 81:34:28.65w -1.5832484e-08 m Flags: L \
+  Truth: LLA: 30:01:57.10n 81:34:28.65w 0 m  Difference: 0 m  \
+  Track: Range: 139861 m Bearing: 267.354 deg Elevation: -4.3743 deg \
+  Truth: Range: 139861 m Bearing: 267.354 deg Elevation: -4.3743 deg \
+ Source_TrackId: bomber_1.2 Update_Time: 0.00000 Update_Count: 0 Quality: 0.5
+25.00000 SENSOR_TRACK_INITIATED sam_1 bomber_1 Sensor: acq TrackId: sam_1.1 \
+  Start_Time: 25.00000 Update_Time: 25.00000 Update_Count: 0 Quality: 0.6 Domain: air Type: M \
+  Target_Truth: Name: bomber_1 Type: BOMBER Side: red \
+  Originator: LLA: 30:06:08.98n 81:34:42.45w 5 m \
+  Track: LLA: 30:05:54.73n 80:11:17.40w 9144 m Flags: 3RBE \
+  Truth: LLA: 30:05:54.73n 80:11:17.40w 9144 m  Difference: 1.40698e-11 m  \
+  Track: Range: 134413 m Bearing: 89.839 deg Elevation: 3.29704 deg \
+  Truth: Range: 134413 m Bearing: 89.839 deg Elevation: 3.29704 deg
+25.00000 LOCAL_TRACK_INITIATED sam_1 bomber_1 TrackId: sam_1.2 \
+  Start_Time: 25.00000 Update_Time: 25.00000 Update_Count: 0 Quality: 0.6 Domain: air Type: PC \
+  Target_Truth: Name: bomber_1 Type: BOMBER Side: red \
+  Originator: LLA: 30:06:08.98n 81:34:42.45w 5 m \
+  Track: LLA: 30:05:54.73n 80:11:17.40w 9144 m Flags: L3RBE \
+  Truth: LLA: 30:05:54.73n 80:11:17.40w 9144 m  Difference: 0 m  \
+  Track: Range: 134413 m Bearing: 89.839 deg Elevation: 3.29704 deg \
+  Truth: Range: 134413 m Bearing: 89.839 deg Elevation: 3.29704 deg \
+ Source_TrackId: sam_1.1 Sensor: acq Type: ACQ_RADAR Mode: default Update_Time: 25.00000 Update_Count: 0 Quality: 0.6

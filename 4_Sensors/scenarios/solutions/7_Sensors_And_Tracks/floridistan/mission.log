@@ -1,0 +1,26 @@
+2024-05-23 10:18:03 file floridistan.txt
+2024-05-23 10:18:03 version wsf 2.9.0
+2024-05-23 10:18:03 file floridistan.txt
+2024-05-23 10:18:03 file setup.txt
+2024-05-23 10:18:03 file ../../../models/platforms/common.txt
+2024-05-23 10:18:03 file platforms/bomber.txt
+2024-05-23 10:18:03 file ../../../models/weapons/agm/red_gps_bomb_1.txt
+2024-05-23 10:18:03 file ../../../models/signatures/bomber_infrared_sig.txt
+2024-05-23 10:18:03 file ../../../models/signatures/bomber_optical_sig.txt
+2024-05-23 10:18:03 file ../../../models/signatures/bomber_radar_sig.txt
+2024-05-23 10:18:03 file platforms/car.txt
+2024-05-23 10:18:03 file platforms/satellite.txt
+2024-05-23 10:18:03 file platforms/ship.txt
+2024-05-23 10:18:03 file platforms/tank.txt
+2024-05-23 10:18:03 file platforms/single_large_sam.txt
+2024-05-23 10:18:03 file ../../../models/weapons/sam/large_sam.txt
+2024-05-23 10:18:03 file ./sensors/radar/acq_radar.txt
+2024-05-23 10:18:03 file ../../../models/sensors/radar/ttr_radar.txt
+2024-05-23 10:18:03 file event_output.txt
+2024-05-23 10:18:03 file scenarios/blue_laydown.txt
+2024-05-23 10:18:03 file scenarios/red_laydown.txt
+2024-05-23 10:18:03 file scenarios/blue_sams.txt
+2024-05-23 10:18:03 AER output file: output/jacksonabad.aer
+2024-05-23 10:18:03 Event output file: output/jacksonabad.evt
+2024-05-23 10:18:03 start 1
+2024-05-23 10:18:03 complete 3600.001 0.029 0.000

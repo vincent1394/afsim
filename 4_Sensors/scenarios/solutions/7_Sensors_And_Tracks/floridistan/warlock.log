@@ -1,0 +1,26 @@
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/solutions/7_Sensors_And_Tracks/floridistan/floridistan.txt
+2024-05-23 10:51:25 version wsf 2.9.0
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\floridistan.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\setup.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/models/platforms/common.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\platforms/bomber.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/models/weapons/agm/red_gps_bomb_1.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/models/signatures/bomber_infrared_sig.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/models/signatures/bomber_optical_sig.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/models/signatures/bomber_radar_sig.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\platforms/car.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\platforms/satellite.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\platforms/ship.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\platforms/tank.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\platforms/single_large_sam.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/models/weapons/sam/large_sam.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/solutions/7_Sensors_And_Tracks/floridistan/sensors/radar/acq_radar.txt
+2024-05-23 10:51:25 file D:/BaiduNetdiskDownload/AFSIM/afsim2.9_src/training/user/4_Sensors/scenarios/models/sensors/radar/ttr_radar.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\event_output.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\scenarios/blue_laydown.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\scenarios/red_laydown.txt
+2024-05-23 10:51:25 file D:\BaiduNetdiskDownload\AFSIM\afsim2.9_src\training\user\4_Sensors\scenarios\solutions\7_Sensors_And_Tracks\floridistan\scenarios/blue_sams.txt
+2024-05-23 10:51:25 AER output file: output/jacksonabad.aer
+2024-05-23 10:51:25 Event output file: output/jacksonabad.evt
+2024-05-23 10:51:25 start 1
+2024-05-23 10:56:45 terminated 319.912 319.913 5.172
